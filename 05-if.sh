@@ -1,5 +1,5 @@
 #syntax
-fruit_names=mango
+fruit_name=mango
 quantity=10
 
 if [ $fruit_name == "mango"]
